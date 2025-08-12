@@ -1,7 +1,47 @@
-# Netflix Clone React.js
+# 🎬 Netflix Clone (React.js)
 
-## Overview
-This project is a Netflix clone built using React.js, designed to enhance skills in web development. It features a fully interactive user interface with various functionalities, making it a comprehensive movie-watching experience. The project is powered by TMDB API, utilizing Firebase for database management.
+A fully responsive Netflix clone built with **React.js**, featuring a sleek UI, dark/light mode, scroll-to-top button, and hover animations.  
+Uses the **TMDb API** for fetching real-time movie data.
+
+---
+
+## 🚀 Deployment
+
+You can deploy this project to:
+
+- [Vercel → Vercel Deployment Guide](https://vercel.com/docs)
+- [Netlify → Netlify Deployment Guide](https://docs.netlify.com/)
+- [GitHub Pages → GitHub Pages Guide](https://pages.github.com/)
+
+---
+
+## 🛠 Troubleshooting
+
+- **API key not working** → Ensure `.env` file is set correctly and restart the dev server.
+- **CORS error** → Check if the API endpoint requires additional headers.
+- **Styles not loading** → Confirm CSS file imports are correct.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository
+2. Create a new branch
+```bash
+git checkout -b feature-xyz
+```
+3. Commit your changes
+```
+git commit -m "Added new feature"
+```
+4. Push to the branch
+```
+git push origin feature-xyz
+```
+5. Open a Full Request
+---
 
 ## Screenshots
 
@@ -34,5 +74,5 @@ This project is a Netflix clone built using React.js, designed to enhance skills
 ## Description
 This Netflix clone project was developed to deepen understanding and proficiency in React.js. Leveraging popular technologies and APIs like TMDB and Firebase, it encompasses a range of features, from user authentication to dynamic movie listings. The design is tailored to provide an immersive streaming experience, and the codebase reflects best practices in modern web development.
 
-## Link to the Site
-[Netflix Clone](https://movieflix-reactjs-orcin.vercel.app/)
+## Link to My Linkedin
+[Ayush Harsh](https://www.linkedin.com/in/ayush13harsh/)
