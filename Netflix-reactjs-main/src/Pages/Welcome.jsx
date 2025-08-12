@@ -34,7 +34,7 @@ function Welcome() {
                 Unlimited movies, TV shows and more.
               </h1>
               <h1 className="mb-4 text-xl text-center text-stone-400 font-light sm:text-2xl">
-                Watch anywahere.Cancel anytime
+                Watch anywhere with Ayush Harsh and Chill 
               </h1>
               <h1 className="mb-2 text-center text-stone-400 font-light sm:text-xl sm:mb-8">
                 Ready to watch? Enter your email to create or restart your
